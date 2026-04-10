@@ -1,2 +1,2 @@
 # Resume
-Author- aman pratap
+Author- Aman Pratap
